@@ -6,4 +6,6 @@
 * @description Discord Time Machine 2008 - A skeuomorphic/glossy theme for Discord
 * @source https://github.com/XYZenix/XYZenixThemes/blob/master/DTM-08.theme.css
 */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
 @import url(https://xyzenix.github.io/XYZenixThemes/DTM-08/dtm-08.css);
