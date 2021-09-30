@@ -1,9 +1,18 @@
 /**
 * @name DTM-08
 * @author 11pixels#2004
-* @version 1.0
+* @version 1.1
 * @invite vUN9sNW
 * @description Discord Time Machine 2008 - A skeuomorphic/glossy theme for Discord
 * @source https://github.com/XYZenix/XYZenixThemes/blob/master/DTM-08.theme.css
 */
 @import url(https://xyzenix.github.io/XYZenixThemes/DTM-08/dtm-08.css);
+
+:root { /* these variables are here because i think they're supposed to be customizable even tho some weren't supposed to be */
+  --login-background: url(https://images.unsplash.com/photo-1514902408987-9b4b79579a8e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1053&q=80);
+  --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+  --ContextMenuBackgroundColorDark: #0008;
+  --ContextMenuBackgroundColorLight: #fff8;
+  --ContextMenuBackgroundBlur: blur(10px);
+  --WhetherOrNotToShowTheStupidOutdatedWarningWhichIsPositionedInSuchAWayThatLiterallyNobodyWillSeeItButDoILookLikeICare: none; /* don't touch this unless you like seeing "outdated" warnings even when you're up to date */
+}
