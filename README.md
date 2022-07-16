@@ -1,5 +1,5 @@
 # DTM-08
-DTM-08 is a skeuomorphic/glossy theme for Discord.
+DTM-08 is a skeuomorphic and glossy theme for Discord.
 
 All issues should go here (and please use the dtm-08 label) -> https://github.com/XYZenix/XYZenixThemes/issues
 
