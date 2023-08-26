@@ -6,6 +6,8 @@
 * @description A skeuomorphic/glossy theme
 * @source https://github.com/XYZenix/XYZenixThemes/blob/master/DTM-08.theme.css
 */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
 @import url(https://xyzenix.github.io/XYZenixThemes/DTM-08/dtm-08.css);
 
 :root { /* these variables are here because i think they're supposed to be customizable even tho some weren't supposed to be */
