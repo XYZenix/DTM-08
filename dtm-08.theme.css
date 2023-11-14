@@ -1,20 +1,9 @@
 /**
 * @name DTM-08
 * @author 11pixels
-* @version 1.1.1
+* @version 2.0
 * @invite vUN9sNW
 * @description A skeuomorphic/glossy theme
 * @source https://github.com/XYZenix/XYZenixThemes/blob/master/DTM-08.theme.css
 */
-@import url(https://xyzenix.github.io/XYZenixThemes/DTM-08/dtm-08.css);
-
-:root { /* these variables are here because i think they're supposed to be customizable even tho some weren't supposed to be */
-  --login-background: url(https://images.unsplash.com/photo-1514902408987-9b4b79579a8e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1053&q=80);
-  --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
-  --ContextMenuBackgroundColorDark: #0008; /* set to #0a0a0a if you disable blur */
-  --ContextMenuBackgroundColorLight: #fffb; /* set to #fff if you disable blur */
-  --ContextMenuBackgroundBlur: blur(10px) /* context menu background blur | default: blur(10px) | disable: none*/;
-  --SettingsSlideAnimDuration1: 0s; /* the whole 'zoom out' effect thing idk what its called | default: .8s | disable: 0s */
-  --SettingsSlideAnimDuration2: 0s; /* the sliding effect | default: .5s | disable: 0s */
-  --PointlesslyLongVariableNameThatSupposedlyControlsAWarningAboutTheThemeBeingOutdatedButWhatDoIKnow: none; /* this variable wants you to leave it alone, please respect its wish unless you like red text at the bottom of the sidebar in user settings */
-}
+@import url(https://xyzenix.github.io/XYZenixThemes/DTM-08-V2/dtm-08-v2.css);
